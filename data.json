@@ -1,0 +1,92 @@
+[
+    {
+        "id": "amii1",
+        "name": "Kurti",
+        "company": "awassa",
+        "price":6000,
+        "colours": [
+            "#ff000",
+            "#000000",
+            "#CDDoDo"
+        ],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr93fSRJWJ2mJVtr3menArW7FyeHcBCiuU4q_ZBzHJaRVaBQRIVnhALJEQW5f1wbr6plM&usqp=CAU",
+        "description": "Based in Devon, UK. A label and studio devoted to roots reggae, following the tradition of classic reggae sounds, social commentary and upliftment of the soul.",
+        "category":"Kurti",
+        "featured":true
+    },
+    {
+        "id": "amii0",
+        "name": "Kurti",
+        "company": "awassa",
+        "price":6000,
+        "colours": [
+            "#ff000",
+            "#000000",
+            "#CDDoDo"
+        ],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStrR5N-lB7KhomrXX6-Xft8JI0vHNZy_9g2cluplerUMicUqh5w83ybSWy2Yg5LPXI2kA&usqp=CAU",
+        "description": "Based in Devon, UK. A label and studio devoted to roots reggae, following the tradition of classic reggae sounds, social commentary and upliftment of the soul.",
+        "category":"Kurti",
+        "featured":true
+    },
+    {
+        "id": "amii1",
+        "name": "Kurti",
+        "company": "awassa",
+        "price":6000,
+        "colours": [
+            "#ff000",
+            "#000000",
+            "#CDDoDo"
+        ],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwFMzO-1ytl_FunotRwCErl6fU71WyG1dYDOFuuksq3uYLGWUmAXcHCvnjeWxQvFHQyCc&usqp=CAU",
+        "description": "Based in Devon, UK. A label and studio devoted to roots reggae, following the tradition of classic reggae sounds, social commentary and upliftment of the soul.",
+        "category":"Kurti",
+        "featured":true
+    },
+    {
+        "id": "amii2",
+        "name": "Kurti",
+        "company": "awassa",
+        "price":6000,
+        "colours": [
+            "#ff000",
+            "#000000",
+            "#CDDoDo"
+        ],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3qEZP3mc-VIQNaYeJ3wQg_Hh9AQe_IX1nBG92zb08wQ7KTBpyYXJdJRTsv_hixj1WWvw&usqp=CAU",
+        "description": "Based in Devon, UK. A label and studio devoted to roots reggae, following the tradition of classic reggae sounds, social commentary and upliftment of the soul.",
+        "category":"Kurti",
+        "featured":true
+    },
+    {
+        "id": "amii3",
+        "name": "Kurti",
+        "company": "awassa",
+        "price":6000,
+        "colours": [
+            "#ff000",
+            "#000000",
+            "#CDDoDo"
+        ],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz4uIY2jvvQgWJS31FIl0_S-9AoJLDVvDijaU1IHpIVEq2DuisMY9YLSXMqzMdmrNpZqI&usqp=CAU",
+        "description": "Based in Devon, UK. A label and studio devoted to roots reggae, following the tradition of classic reggae sounds, social commentary and upliftment of the soul.",
+        "category":"Kurti",
+        "featured":true
+    },
+    {
+        "id": "amii4",
+        "name": "Kurti",
+        "company": "awassa",
+        "price":6000,
+        "colours": [
+            "#ff000",
+            "#000000",
+            "#CDDoDo"
+        ],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPIYoyCd8VEYDp_ZvDCtggHxosHbdNAM3Y3sJcEYj8i2UzkQ8ypSTDXOGy3Tq2kf0Am0E&usqp=CAU",
+        "description": "Based in Devon, UK. A label and studio devoted to roots reggae, following the tradition of classic reggae sounds, social commentary and upliftment of the soul.",
+        "category":"Kurti",
+        "featured":false
+    }
+]
